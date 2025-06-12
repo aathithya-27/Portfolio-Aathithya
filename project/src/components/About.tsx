@@ -36,7 +36,7 @@ const About = () => {
             </p>
             
             <p className="text-lg text-gray-700 dark:text-gray-300 mb-8">
-              My dedication to learning and adaptability helps me thrive in dynamic environments, and I'm always eager to take on new challenges in technology and development.
+              My dedication to learning and adaptability helps me thrive in dynamic environments, and I'm always eager to take on new challenges in technology and web-development.
             </p>
             
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
